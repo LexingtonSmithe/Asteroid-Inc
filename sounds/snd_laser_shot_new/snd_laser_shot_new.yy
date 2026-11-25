@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_laser_shot_new",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.41,
+  "exportDir":"",
+  "name":"snd_laser_shot_new",
+  "parent":{
+    "name":"Weapons",
+    "path":"folders/Sounds/SFX/Weapons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_laser_shot_new.wav",
+  "volume":1.0,
+}

@@ -1,0 +1,11 @@
+﻿# Builds and archives
+*.exe
+*.zip
+# Source audio stems (duplicated in sounds/)
+stems/
+# GameMaker caches
+/cache/
+/tmp/
+*.ysp
+# Bot runs
+/bot_runs/

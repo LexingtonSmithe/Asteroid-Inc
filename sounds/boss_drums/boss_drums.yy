@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"boss_drums",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":150.545465,
+  "exportDir":"",
+  "name":"boss_drums",
+  "parent":{
+    "name":"Boss",
+    "path":"folders/Sounds/Music/Boss.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"boss_drums.wav",
+  "volume":1.0,
+}

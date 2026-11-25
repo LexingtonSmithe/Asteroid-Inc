@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"track_6_drums",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":224.0,
+  "exportDir":"",
+  "name":"track_6_drums",
+  "parent":{
+    "name":"Track 6",
+    "path":"folders/Sounds/Music/Track 6.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"track_6_drums.wav",
+  "volume":1.0,
+}

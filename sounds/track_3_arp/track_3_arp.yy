@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"track_3_arp",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":96.0,
+  "exportDir":"",
+  "name":"track_3_arp",
+  "parent":{
+    "name":"Track 3",
+    "path":"folders/Sounds/Music/Track 3.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"track_3_arp.wav",
+  "volume":1.0,
+}

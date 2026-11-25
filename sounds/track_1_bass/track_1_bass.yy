@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"track_1_bass",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":91.428571,
+  "exportDir":"",
+  "name":"track_1_bass",
+  "parent":{
+    "name":"Track 1",
+    "path":"folders/Sounds/Music/Track 1.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"track_1_bass.wav",
+  "volume":1.0,
+}
